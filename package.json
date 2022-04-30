@@ -1,0 +1,22 @@
+{
+  "name": "typescript-bootcamp",
+  "version": "0.0.1",
+  "description": "Tutorial de Typescript del bootcamp fullstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "multiplier": "ts-node multiplier.ts",
+    "calculator": "ts-node calculator.ts"
+  },
+  "keywords": [
+    "typescript",
+    "node.js"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
